@@ -1,0 +1,9 @@
+---
+title: "Publications"
+bibliography: MyPapers.bib
+csl: nature.csl
+nocite: |
+  @*
+---
+
+List of current published work and preprints.

@@ -1,0 +1,19 @@
+---
+title: "Teaching"
+---
+
+| Course | Position | University | Term | Year |
+| ------ | -------- | ---------- | ------ | ---- |
+| Basic Stats. and Prob. | Lab Coordinator | Boston University| Spring | 2023 |
+| Basic Stats. and Prob. | Teaching Assistant | Boston University| Fall | 2022 |
+| Calculus I | Instructor | Boston University | Summer 2 | 2022 |
+| Basic Stats. and Prob. | Teaching Assistant | Boston University| Spring | 2021 |
+| Multivariate Calculus | Teaching Assistant | Boston University| Spring | 2021 |
+| Combinatoric Structures | Teaching Assistant | Boston University| Fall | 2020 |
+| Discrete Mathematics | Instructor | Boston University| Summer 2 | 2020 |
+| Probability in Computing | Teaching Assistant | Boston University| Spring | 2020 |
+| Probability in Computing | Teaching Assistant | Boston University| Fall | 2019 |
+| Linear Algbera | Instructor | Boston University| Summer 2 | 2019 |
+| Linear Algbera | Instructor | Boston University| Summer 1 | 2019 |
+| Differential Equations | Teaching Assistant | Boston University| Spring | 2019 |
+| Statistics I | Teaching Assistant | Boston University| Fall | 2018 |

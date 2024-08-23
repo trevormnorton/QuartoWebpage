@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "About Me\nMy name is Trevor, and I am currently a Postdoctoral Researcher at Virginia Tech. I am originally from Roanoke, Virgina and attended Boston University for my Ph.D. in Mathematics. While my graduate studies focused on Mathematical Physics, Dynamical Systems, and Partial Differential Equations, my current work focuses on applying Machine Learning. My current project focuses on using machine learning to improve coarse-grained models of proteins.\n\n\nContact Information and Links\nEmail: norton15@vt.edu\nGithub: trevormnorton"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "My name is Trevor, and I am currently a Postdoctoral Researcher at Virginia Tech. I am originally from Roanoke, Virgina and attended Boston University for my Ph.D. in Mathematics. While my graduate studies focused on Mathematical Physics, Dynamical Systems, and Partial Differential Equations, my current work focuses on applying Machine Learning. My current project focuses on using machine learning to improve coarse-grained models of proteins."
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Publications",
+    "section": "",
+    "text": "List of current published work and preprints.\n\n\n\n\nReferences\n\n1. Norton, T. & Bhattacharya, D. Sifting through the noise: A survey of diffusion probabilistic models and their applications to biomolecules. (2024).\n\n\n2. Norton, T. & Wayne, C. E. Long-time approximations of small-amplitude, long-wavelength FPUT solutions. Discrete and Continuous Dynamical Systems 44, 905–928 (2024).\n\n\n3. Norton, T., Xu, J., Choi, B., Kon, M. & Castrillón-Candás, J. E. Uncertainty quantification and complex analyticity of the nonlinear poisson-boltzmann equation for the interface problem with random domains. (2023).\n\n\n4. Norton, T. Kink-like solutions for the FPUT lattice and the mKdV as a modulation equation. (Boston University, 2023).\n\n\n5. Choi, B., Xu, J., Norton, T., Kon, M. & Castrillon-Candas, J. E. Existence of strong solution for the complexified non-linear poisson boltzmann equation. (2021)."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Course\nPosition\nUniversity\nTerm\nYear\n\n\n\n\nBasic Stats. and Prob.\nLab Coordinator\nBoston University\nSpring\n2023\n\n\nBasic Stats. and Prob.\nTeaching Assistant\nBoston University\nFall\n2022\n\n\nCalculus I\nInstructor\nBoston University\nSummer 2\n2022\n\n\nBasic Stats. and Prob.\nTeaching Assistant\nBoston University\nSpring\n2021\n\n\nMultivariate Calculus\nTeaching Assistant\nBoston University\nSpring\n2021\n\n\nCombinatoric Structures\nTeaching Assistant\nBoston University\nFall\n2020\n\n\nDiscrete Mathematics\nInstructor\nBoston University\nSummer 2\n2020\n\n\nProbability in Computing\nTeaching Assistant\nBoston University\nSpring\n2020\n\n\nProbability in Computing\nTeaching Assistant\nBoston University\nFall\n2019\n\n\nLinear Algbera\nInstructor\nBoston University\nSummer 2\n2019\n\n\nLinear Algbera\nInstructor\nBoston University\nSummer 1\n2019\n\n\nDifferential Equations\nTeaching Assistant\nBoston University\nSpring\n2019\n\n\nStatistics I\nTeaching Assistant\nBoston University\nFall\n2018"
+  },
+  {
+    "objectID": "index.html#contact-information-and-links",
+    "href": "index.html#contact-information-and-links",
+    "title": "Home",
+    "section": "Contact Information and Links",
+    "text": "Contact Information and Links\nEmail: norton15@vt.edu\nGithub: github"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Home",
+    "section": "",
+    "text": "My name is Trevor, and I am currently a Postdoctoral Researcher at Virginia Tech. I am originally from Roanoke, Virgina and attended Boston University for my Ph.D. in Mathematics. While my graduate studies focused on Mathematical Physics, Dynamical Systems, and Partial Differential Equations, my current work focuses on applying Machine Learning. My current project focuses on using machine learning to improve coarse-grained models of proteins."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Home",
+    "section": "",
+    "text": "My name is Trevor, and I am currently a Postdoctoral Researcher at Virginia Tech. I am originally from Roanoke, Virgina and attended Boston University for my Ph.D. in Mathematics. While my graduate studies focused on Mathematical Physics, Dynamical Systems, and Partial Differential Equations, my current work focuses on applying Machine Learning. My current project focuses on using machine learning to improve coarse-grained models of proteins."
+  }
+]
